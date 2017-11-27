@@ -1,0 +1,7 @@
+E:\Education\UCLA\C#\Week01\DerivedClass_DanilovNikita\DerivedClass_DanilovNikita\bin\Debug\DerivedClass_DanilovNikita.exe.config
+E:\Education\UCLA\C#\Week01\DerivedClass_DanilovNikita\DerivedClass_DanilovNikita\bin\Debug\DerivedClass_DanilovNikita.exe
+E:\Education\UCLA\C#\Week01\DerivedClass_DanilovNikita\DerivedClass_DanilovNikita\bin\Debug\DerivedClass_DanilovNikita.pdb
+E:\Education\UCLA\C#\Week01\DerivedClass_DanilovNikita\DerivedClass_DanilovNikita\obj\Debug\DerivedClass_DanilovNikita.csprojResolveAssemblyReference.cache
+E:\Education\UCLA\C#\Week01\DerivedClass_DanilovNikita\DerivedClass_DanilovNikita\obj\Debug\DerivedClass_DanilovNikita.csproj.CoreCompileInputs.cache
+E:\Education\UCLA\C#\Week01\DerivedClass_DanilovNikita\DerivedClass_DanilovNikita\obj\Debug\DerivedClass_DanilovNikita.exe
+E:\Education\UCLA\C#\Week01\DerivedClass_DanilovNikita\DerivedClass_DanilovNikita\obj\Debug\DerivedClass_DanilovNikita.pdb

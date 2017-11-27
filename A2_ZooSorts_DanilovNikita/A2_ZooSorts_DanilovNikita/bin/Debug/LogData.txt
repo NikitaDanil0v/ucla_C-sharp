@@ -1,0 +1,10 @@
+1       Lion            Leo                360    5       $2,500.00          10
+2       Lion            George             380    7       $2,500.00          11
+3       Lion            Tom                400    6       $2,500.00          12
+4       Lion            Man-Eater          450    8       $5,000.00          13
+5       Giraffe         Amber             1400    4       $4,500.00          20
+6       Giraffe         Charlie           2600    5       $3,600.00          21
+7       Giraffe         Shirley           1400    4       $4,500.00          22
+8       Giraffe         George            2600    5       $3,600.00          23
+9       Giraffe         Tess              1400    4       $4,500.00          24
+10      Giraffe         Carol             2600    5       $4,500.00          25

@@ -1,0 +1,7 @@
+E:\Education\UCLA\C#\Programming in C# For Visual Studio .NET Platform II\Week02\A2_ZooSorts_DanilovNikita\A2_ZooSorts_DanilovNikita\bin\Debug\A2_ZooSorts_DanilovNikita.exe.config
+E:\Education\UCLA\C#\Programming in C# For Visual Studio .NET Platform II\Week02\A2_ZooSorts_DanilovNikita\A2_ZooSorts_DanilovNikita\bin\Debug\A2_ZooSorts_DanilovNikita.exe
+E:\Education\UCLA\C#\Programming in C# For Visual Studio .NET Platform II\Week02\A2_ZooSorts_DanilovNikita\A2_ZooSorts_DanilovNikita\bin\Debug\A2_ZooSorts_DanilovNikita.pdb
+E:\Education\UCLA\C#\Programming in C# For Visual Studio .NET Platform II\Week02\A2_ZooSorts_DanilovNikita\A2_ZooSorts_DanilovNikita\obj\Debug\A2_ZooSorts_DanilovNikita.csprojResolveAssemblyReference.cache
+E:\Education\UCLA\C#\Programming in C# For Visual Studio .NET Platform II\Week02\A2_ZooSorts_DanilovNikita\A2_ZooSorts_DanilovNikita\obj\Debug\A2_ZooSorts_DanilovNikita.csproj.CoreCompileInputs.cache
+E:\Education\UCLA\C#\Programming in C# For Visual Studio .NET Platform II\Week02\A2_ZooSorts_DanilovNikita\A2_ZooSorts_DanilovNikita\obj\Debug\A2_ZooSorts_DanilovNikita.exe
+E:\Education\UCLA\C#\Programming in C# For Visual Studio .NET Platform II\Week02\A2_ZooSorts_DanilovNikita\A2_ZooSorts_DanilovNikita\obj\Debug\A2_ZooSorts_DanilovNikita.pdb
